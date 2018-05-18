@@ -5,6 +5,8 @@ Also, if you like these intro notebooks, I'd love to write more for you that go 
 
 All said and done, let's get started!
 
+ – B
+ 
 
 # Installing the Environment
 1. Download Python 3 [here](https://www.python.org/downloads/release/python-365/) and download the package that corresponds to your computer
